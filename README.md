@@ -6,3 +6,8 @@
 
 <p>Is a collection ordered, changeable, and doesn't allow duplicate values.</p>
 
+
+| Index |
+| :-------- |
+| 1.  [Creating Dictionaries](creating-dictio.py) |
+| 1.  [Access Dictionaries](access-dictio.py) |
