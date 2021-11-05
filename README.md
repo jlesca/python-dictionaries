@@ -12,3 +12,4 @@
 | 1.  [Creating Dictionaries](creating-dictio.py) |
 | 2.  [Access Dictionaries](access-dictio.py) |
 | 3.  [Change Items](change-items.py) |
+| 4.  [Add Items](add-items.py) |
