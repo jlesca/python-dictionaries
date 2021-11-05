@@ -13,3 +13,4 @@
 | 2.  [Access Dictionaries](access-dictio.py) |
 | 3.  [Change Items](change-items.py) |
 | 4.  [Add Items](add-items.py) |
+| 5.  [Remove Items](remove-items.py) |
