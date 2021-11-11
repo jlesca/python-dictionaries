@@ -15,3 +15,4 @@
 | 4.  [Add Items](add-items.py) |
 | 5.  [Remove Items](remove-items.py) |
 | 6.  [Loop Dictionary](loop-dictio.py) |
+| 7.  [Methods Dictionary](methods-dictio.md) |
