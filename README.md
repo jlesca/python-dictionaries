@@ -14,3 +14,4 @@
 | 3.  [Change Items](change-items.py) |
 | 4.  [Add Items](add-items.py) |
 | 5.  [Remove Items](remove-items.py) |
+| 6.  [Loop Dictio](loop-dictio.py) |
